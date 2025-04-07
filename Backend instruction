@@ -1,0 +1,11 @@
+Start with creating server folder
+then create
+--- Controller folder
+--- Routes folder
+--- index.js file
+
+then install depenencies
+---npm init
+---npm install express cors dotenv openai
+
+npm install express cors dotenv openai langchain @langchain/core @langchain/community
